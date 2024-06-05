@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayushi Sinha
-- 👀 I’m interested in Web Development, Android Development
+- 👀 I’m interested in Web Development
 - 📫 How to reach me: email at ayushisinha0403@gmail.com
 
 <!---
